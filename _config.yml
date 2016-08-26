@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+gems:             ['jekyll-paginate', 'jekyll-gist']
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Robert Stern
+tagline:          'Web Development'
+description:      "Web development blog"
+url:              http://armyofgnomes.github.io
+baseurl:          /
+
+author:
+  name:           'Robert Stern'
+  url:            https://www.robertlstern.com/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/armyofgnomes/armyofgnomes.github.io
